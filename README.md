@@ -195,13 +195,13 @@ This dashboard serves as more than a visual reporting tool. It is a comprehensiv
 
 By examining performance across time, product lines, regions, and sales channels, the analysis offers a balanced perspective on operational strengths, growth opportunities, and areas requiring immediate attention.
 
-For business leaders, this report provides a strategic foundation to support data-driven decision-making, optimize resource allocation, and shape future growth strategies with confidence. It transforms data into direction and charts into choices.
----
+**For business leaders, this report provides a strategic foundation to support data-driven decision-making, optimize resource allocation, and shape future growth strategies with confidence. It transforms data into direction and charts into choices.**
 
+---
 ## Live Dashboard
 
-> Want to explore the insights yourself?  
-Click [HERE](https://app.powerbi.com/view?r=eyJrIjoiOTAxZTA2MGEtZTkzMy00MDRkLWE2OWEtYmYxYjMwMTA5OWM4IiwidCI6IjBmYTAxNzhmLTZmY2ItNGQwMC1hMzc1LTc2MmMzNTYxOGRkNCJ9) to view the live Power BI Dashboard!  
+Want to explore the insights yourself?  
+Click [HERE](https://app.powerbi.com/view?r=eyJrIjoiOTAxZTA2MGEtZTkzMy00MDRkLWE2OWEtYmYxYjMwMTA5OWM4IiwidCI6IjBmYTAxNzhmLTZmY2ItNGQwMC1hMzc1LTc2MmMzNTYxOGRkNCJ9) to view the live Power BI Dashboard  
 
 ---
 ## Let’s Connect
