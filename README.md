@@ -110,7 +110,7 @@ States like **Arkansas, Colorado, and Connecticut** also delivered major YoY pro
 
 ## Conclusion & Strategic Recommendations
 
-The data reveals a resilient performance in 2024, showing a commendable rebound following a slowdown in 2023. Revenue, profit, and customer metrics have all improved year-over-year — indicating healthy recovery. However, inconsistency across products, channels, and time periods exposes vulnerabilities that need deliberate action.
+The data reveals a resilient performance in 2024, showing a commendable rebound following a slowdown in 2023. Revenue, profit, and customer metrics have all improved year-over-year indicating healthy recovery. However, inconsistency across products, channels, and time periods exposes vulnerabilities that need deliberate action.
 
 The recommendations below are rooted in detailed analysis and provide *data-backed solutions* to specific business challenges, not assumptions.
 
